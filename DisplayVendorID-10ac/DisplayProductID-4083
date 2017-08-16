@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>DELL U3014 - forced RGB mode (EDID override)</string>
+  <key>IODisplayEDID</key>
+  <data>AP///////wAQrINATDU0MAgZAQOAQCh44h31rk81syUNUFSlSwCBALMA0QBx
+T6lAgYDRwAEB4mgAoKBALmAwIDYAgZEhAAAaAAAA/wBQMVY2TjUyRzA0NUwK
+AAAA/ABERUxMIFUzMDE0CiAgAAAA/QAxVh1xHAAKICAgICAgAH4=
+</data>
+  <key>DisplayVendorID</key>
+  <integer>4268</integer>
+  <key>DisplayProductID</key>
+  <integer>16515</integer>
+</dict>
+</plist>
